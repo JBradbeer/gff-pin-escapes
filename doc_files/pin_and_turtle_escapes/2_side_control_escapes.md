@@ -1,6 +1,8 @@
-<link rel="stylesheet" href="/gff-pin-escapes/assets/styles.css" />
+<link rel="stylesheet" href="/bjj-docs/assets/styles.css" />
 
 # Side Control Escapes
+
+{:TOC}
 
 Side control is the single most dominant position for control in BJJ from a beginner all the way up to an advanced 
 level. 
@@ -8,24 +10,26 @@ level.
 The first thing to assess when put in an elbow escape is what type of side pin are you in; crossface with underhook, reverse crossface with elbow pinning hip, kesa, etc. Each pin requires its own response.
 
 Index:
-**Primary:**
-1. Elbow escape
-2. Knee escape
-
-These are the
-
-**Opportunistic? / situational:**
-1. High leg
-2. Ankle trap
-3. Shoulder roll
-4.
+1. [Escapes for opponent on two knees](#escapes-for-when-the-opponent-is-on-two-knees)
+   2. Primary
+      1. Elbow escape
+      2. Knee escape
+   3. Opportunistic
+      1. High leg
+      2. Ankle trap
+      3. Shoulder roll
+2. Kesa Gatame
+   1. While the opponent is transitioning
+   2. When its locked in
+3. Reverse Kesa Gatame
+   1. TODO
 
 ---
 
 ## Escapes for when the opponent is on two knees
 <div class="photoList">
    <figure>
-    <img src="/gff-pin-escapes/assets/images/pin_escapes_and_turtle_escapes_john_danahar/side_control_classic.png">
+    <img src="{{ site.pin_escapes_images }}/side_control_classic.png">
     <figcaption>Side control on knees example</figcaption>
    </figure>
 </div>
@@ -39,8 +43,8 @@ Ideal sequence:
 2. Insert elbow
 3. Bridge to create space
 4. Insert knee
-5. Take half gaurd
-6. Switch to closed gaurd
+5. Take half guard
+6. Switch to closed guard
 
 #### Creating space
 A fundamental requirement for a side control pin to be effective is that the head and hips of tori need to be on opposite sides of the body, even if they have hands clasped. As escapee, a main goal is to get their head and body to the same side as it will allow you to have an easier time getting your knee in
@@ -49,11 +53,11 @@ There are two main ways to displace their head to get to the same side of their 
 
 <div class="photoList">
   <figure>
-    <img src="/gff-pin-escapes/assets/images/pin_escapes_and_turtle_escapes_john_danahar/bicep_cross_face.png">
+    <img src="{{ site.pin_escapes_images }}/bicep_cross_face.png">
     <figcaption>Bicep Crossface</figcaption>
   </figure>
    <figure>
-    <img src="/gff-pin-escapes/assets/images/pin_escapes_and_turtle_escapes_john_danahar/forearm_cross_face.png">
+    <img src="{{ site.pin_escapes_images }}/forearm_cross_face.png">
     <figcaption>Forearm Crossface</figcaption>
   </figure>
 </div>
@@ -65,7 +69,7 @@ Your final position (for insertion) should be your knee touching your elbow crea
 
 <div class="photoList">
   <figure>
-    <img src="/gff-pin-escapes/assets/images/pin_escapes_and_turtle_escapes_john_danahar/inserting_the_knee.png">
+    <img src="{{ site.pin_escapes_images }}/inserting_the_knee.png">
     <figcaption>Final insertion position</figcaption>
   </figure>
 </div>
@@ -79,7 +83,7 @@ A strong crossface will turn your body in the opposite direction you need to mov
     - If they follow they will lose the crossface for a moment of time, leaving an opportunity to bridge
     - If they don't follow they leave their hips space open allowing you to change direction and shoot your knee in
 
-2. Bridge the otherway instead, underhooking near-side arm in their armpit.
+2. Bridge the other way instead, underhooking near-side arm in their armpit.
     - If they let you sweep, take it
     - If they base out on far side they will lose their heavy pressure giving you an opportunity to use the regular elbow escape
 
@@ -87,11 +91,11 @@ A strong crossface will turn your body in the opposite direction you need to mov
 
 <div class="photoList">
   <figure >
-    <img src="/gff-pin-escapes/assets/images/pin_escapes_and_turtle_escapes_john_danahar/walk_away_from_crossface.png">
+    <img src="{{ site.pin_escapes_images }}/walk_away_from_crossface.png">
     <figcaption>Walking away to create space</figcaption>
   </figure>
   <figure>
-    <img src="/gff-pin-escapes/assets/images/pin_escapes_and_turtle_escapes_john_danahar/bridge_opposite_way_heavy_crossface.png">
+    <img src="{{ site.pin_escapes_images }}/bridge_opposite_way_heavy_crossface.png">
     <figcaption>Bridging opposite direction</figcaption>
   </figure>
 </div>
@@ -102,11 +106,11 @@ If they block the knee insertion, shrimp away from uke and take half underhook w
 
 <div class="photoList">
    <figure>
-    <img src="/gff-pin-escapes/assets/images/pin_escapes_and_turtle_escapes_john_danahar/uke_blocks_knee_insertion.png">
+    <img src="{{ site.pin_escapes_images }}/uke_blocks_knee_insertion.png">
     <figcaption>Uke blocks knee insertion</figcaption>
    </figure>
    <figure>
-    <img src="/gff-pin-escapes/assets/images/pin_escapes_and_turtle_escapes_john_danahar/uke_blocks_knee_insertion_solution.png">
+    <img src="{{ site.pin_escapes_images }}/uke_blocks_knee_insertion_solution.png">
     <figcaption>Use half underhook to remove block</figcaption>
    </figure>
 </div>
@@ -132,11 +136,11 @@ Same as the elbow escape, if uke has a strong crossface you will struggle to tur
 
 <div class="photoList">
    <figure>
-    <img src="/gff-pin-escapes/assets/images/pin_escapes_and_turtle_escapes_john_danahar/beating_crossface_knee_escape.png">
+    <img src="{{ site.pin_escapes_images }}/beating_crossface_knee_escape.png">
     <figcaption>Underhook like a bicep crossface on armpit</figcaption>
    </figure>
    <figure>
-    <img src="/gff-pin-escapes/assets/images/pin_escapes_and_turtle_escapes_john_danahar/beating_crossface_knee_escape_finish.png">
+    <img src="{{ site.pin_escapes_images }}/beating_crossface_knee_escape_finish.png">
     <figcaption>Finishing position after bicep crossface on armpit</figcaption>
    </figure>
 </div>
@@ -146,11 +150,11 @@ Same as the elbow escape, if uke has a strong crossface you will struggle to tur
 ## Escapes for when the opponent sits out (Kesa Gatame)
 <div class="photoList">
    <figure>
-      <img src="/gff-pin-escapes/assets/images/pin_escapes_and_turtle_escapes_john_danahar/side_control_kesa_gatame.png">
+      <img src="{{ site.pin_escapes_images }}/side_control_kesa_gatame.png">
       <figcaption>Kesa Gatame </figcaption>
    </figure>
    <figure>
-      <img src="/gff-pin-escapes/assets/images/pin_escapes_and_turtle_escapes_john_danahar/side_control_kuzure_kesa_gatame.png">
+      <img src="{{ site.pin_escapes_images }}/side_control_kuzure_kesa_gatame.png">
       <figcaption>Kuzure Kesa Gatame </figcaption>
    </figure>
 </div>

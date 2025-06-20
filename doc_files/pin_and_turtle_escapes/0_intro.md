@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="/gff-pin-escapes/assets/styles.css" />
+<link rel="stylesheet" href="/bjj-docs/assets/styles.css" />
 
 # Intro
 

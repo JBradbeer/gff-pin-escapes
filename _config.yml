@@ -1,3 +1,6 @@
 title: BJJ Notes
 markdown: kramdown
 theme: jekyll-theme-8bit
+
+# Variables
+pin_escapes_images: /bjj-docs/assets/images/pin_and_turtle_escapes
